@@ -1,0 +1,11 @@
+# Directorios
+__pycache__/
+crawled_data/
+.venv/
+WebChatBot/
+.vscode/
+
+# Archivos
+*.pyc
+*.log
+*.json
